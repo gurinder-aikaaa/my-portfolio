@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+password for sanity
+@UtbJ6$JRFnmMnV
+
+### from sanity.json 
+sanity client we need 
+ { projectId     
+   dataset
+ }
 ### `npm start`
 
 Runs the app in the development mode.\
