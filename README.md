@@ -10,7 +10,7 @@ password for sanity
 @UtbJ6$JRFnmMnV
 
 ### from sanity.json 
-sanity client we need 
+sganity client we need 
  { projectId     
    dataset
  }
